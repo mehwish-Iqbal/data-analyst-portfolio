@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-**mehwish-Iqbal/Mehwish-Iqbal**
+##👋 Hi, I'm Mehwish Iqbal
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,9 +8,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-👋 Hi, I'm Mehwish Iqbal
 
 ## 💼 Junior Data Analyst | Power BI | SQL | Python | Excel | Google Data Analytics
 
