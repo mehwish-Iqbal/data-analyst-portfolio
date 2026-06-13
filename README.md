@@ -1,47 +1,44 @@
-##👋 Hi, I'm Mehwish Iqbal
+# 👋 Hi, I'm an Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📊 About Me
 
-## 💼 Junior Data Analyst | Power BI | SQL | Python | Excel | Google Data Analytics
+I am passionate about turning raw data into meaningful insights. I work with real-world datasets using Python, SQL, and Power BI to perform:
 
-I am a motivated and detail-oriented Junior Data Analyst with a strong foundation in data analysis and visualization. I specialize in transforming raw data into actionable insights using modern tools and techniques.
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization  
+
+I am currently building my portfolio by working on practical projects and uploading them on GitHub.
 
 ---
 
-## 🚀 Skills & Tools
+## 🛠️ Skills
 
-* 📊 **Power BI** (Interactive Dashboards & Data Visualization)
-* 🗄️ **SQL** (Data Querying & Data Extraction)
-* 🐍 **Python** (Data Analysis – Pandas, NumPy - Learning Phase)
-* 📑 **Excel** (Data Cleaning, Analysis & Reporting)
-* 📘 **Google Data Analytics** (Foundations & Best Practices)
-
----
-
-## 📊 Featured Project
-
-### 🔹 Adventure Works Sales Analysis Dashboard
-
-* Built an interactive Power BI dashboard to analyze sales performance (2015–2017)
-* Identified top-performing products and revenue trends
-* Performed regional and return rate analysis
-* Applied data modeling techniques (Snowflake Schema)
-* Delivered actionable business insights
+- Python (Pandas, NumPy)  
+- SQL (Basic to Intermediate Queries)  
+- Power BI (Dashboard Creation)  
+- Data Cleaning & Data Validation  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization  
 
 ---
 
-## 🎯 Career Objective
+## 📁 Projects
 
-To start my career as a Junior Data Analyst where I can apply my analytical skills, work with real-world datasets, and grow professionally in a data-driven environment.
+- 📌 Sales Dashboard (Power BI)  
+- 📌 Lightning Strike EDA Project (Python)  
+- 📌 Data Cleaning & Validation Project  
+- 📌 SQL Practice Queries  
 
 ---
+
+## 🎯 Goal
+
+To become a professional Data Analyst and work on real-world business problems using data.
+
+---
+
+ 
 
 ## 📫 Connect With Me
 
@@ -51,9 +48,4 @@ mehwish-iqbal-2584b3395
 
 ---
 
-## ⭐ About Me
-
-* 💡 Passionate about data and problem-solving
-* 📚 Continuously learning new data tools & technologies
-* 🚀 Focused on building real-world projects
 Thanks .
