@@ -25,10 +25,12 @@ I am currently building my portfolio by working on practical projects and upload
 
 ## 📁 Projects
 
-- 📌 Sales Dashboard (Power BI)  
-- 📌 Lightning Strike EDA Project (Python)  
-- 📌 Data Cleaning & Validation Project  
-- 📌 SQL Practice Queries  
+-  Sales Dashboard (Power BI)  
+-  Google advance data analytics portfolio (Python)  
+-  Data Cleaning projectcs portfolio  
+-  python learning journy
+-  unicorn companies EDA project
+-  
 
 ---
 
