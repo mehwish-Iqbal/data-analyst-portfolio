@@ -30,7 +30,13 @@ I am currently building my portfolio by working on practical projects and upload
 -  Data Cleaning projectcs portfolio  
 -  python learning journy
 -  unicorn companies EDA project
--  
+-  OIBSIP Data Analytics Projects
+
+    ____ Retail Sales Analysis – Exploratory Data Analysis (EDA)
+
+    ____Employee Dataset – Data Cleaning & Preprocessing
+
+    ____Google Play Store – App Market Analysis, User Reviews & Sentiment Analysis
 
 ---
 
